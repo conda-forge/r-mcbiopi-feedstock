@@ -1,11 +1,11 @@
-About r-mcbiopi
-===============
+About r-mcbiopi-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mcbiopi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=mcbiopi
 
 Package license: LGPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mcbiopi-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes the prime implicants or a minimal disjunctive normal form for a logic expression presented by a truth table or a logic tree. Has been particularly  developed for logic expressions resulting from a logic regression analysis, i.e. logic expressions typically consisting of up to 16 literals, where the prime implicants  are typically composed of a maximum of 4 or 5 literals.
 
